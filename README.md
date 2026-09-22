@@ -84,6 +84,11 @@ This repository represents academic hands-on work and documents the technologies
 
 The main takeaway is that a cloud workload is more than a VM. Networking, identity, security rules, storage, operating-system configuration, and monitoring all affect whether the environment is reachable, secure, and supportable.
 
+## Documentation
+
+- [Architecture notes](./docs/architecture.md)
+- [Troubleshooting playbook](./docs/troubleshooting-playbook.md)
+
 ## Related skills
 
 Azure · Windows/Linux administration · Networking · Access control · Monitoring · Troubleshooting
