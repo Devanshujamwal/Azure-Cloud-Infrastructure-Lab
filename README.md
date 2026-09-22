@@ -6,7 +6,7 @@
 
 A hands-on Azure infrastructure case study focused on **compute, virtual networking, access control, storage, monitoring, and troubleshooting**.
 
-**Portfolio case study:** https://devanshujamwal.github.io/Devanshujamwal/projects/azure-infrastructure/
+**Portfolio case study:** https://devanshujamwal.github.io/projects/azure-infrastructure/
 
 ## At a glance
 
@@ -88,4 +88,4 @@ A future version could include sanitized deployment screenshots, resource diagra
 
 ---
 **Devanshu Jamwal** · IT Support · Systems · Networking · Cloud  
-[Portfolio](https://devanshujamwal.github.io/Devanshujamwal/) · [GitHub Profile](https://github.com/Devanshujamwal)
+[Portfolio](https://devanshujamwal.github.io/) · [GitHub Profile](https://github.com/Devanshujamwal)
